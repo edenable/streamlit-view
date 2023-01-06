@@ -12,6 +12,8 @@ sview
 
 st.button('Click me')
 
+import time
+
 with st.spinner(text='In progress'):
     time.sleep(5)
-    st.success('Done')
+    st.success('Done')0
