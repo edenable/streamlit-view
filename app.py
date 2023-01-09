@@ -16,4 +16,4 @@ import time
 
 with st.spinner(text='In progress'):
     time.sleep(5)
-    st.success('Done')0
+    st.success('Done')
